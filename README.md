@@ -11,7 +11,7 @@ Este proyecto se centra en el desarrollo de un sistema de firma digital para doc
 Desarrollamos un script de web scraping para extraer los enlaces de PDFs de su sitio web automáticamente. Esto nos permite recopilar los documentos relevantes para su posterior firma digital. Realiza parsing toda la sección que elegimos y entra a buscar los PDFs.
 
 <div style="text-align: center;">
-  <img src="images/mancha_urbana_hermosillo.jpeg" alt="Hermosillo">
+  <img src="pdf_congreso.png" alt="Hermosillo">
 </div>
 
 ## Proceso de Firma Digital
